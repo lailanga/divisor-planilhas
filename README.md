@@ -2,6 +2,14 @@
 
 Ferramenta simples com interface gráfica para dividir planilhas Excel grandes em múltiplos arquivos menores (até 20.000 registros por arquivo), mantendo todos os dados como texto.
 
+## ⬇️ Download
+
+<p align="center">
+  <a href="https://github.com/lailanga/divisor-planilhas/releases/tag/v1.0.0">
+    <img src="https://img.shields.io/badge/Download-.exe-blue?style=for-the-badge&logo=windows">
+  </a>
+</p>
+
 ## 🚀 Funcionalidades
 
 * Interface gráfica (Tkinter)
